@@ -1,4 +1,4 @@
-👋 Hi, I'm Yisehak Gursha, a junior programmer at Dventus Technologies Company.
+👋 Hi, I'm Yisehak Gursha, a Automation Engineer  at Atlas Computer Technology PLc.
 👀 I'm interested in expanding my programming skills and knowledge.
 🌱 Currently, I'm learning Java and JavaScript to enhance my proficiency in these programming languages.
 💞️ I'm eager to collaborate on any exciting projects or initiatives related to Java or JavaScript development.
